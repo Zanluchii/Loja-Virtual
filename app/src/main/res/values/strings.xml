@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loja Virtual</string>
+    <string name="product_code_label">Código: %1$s</string>
+    <string name="product_price_format">R$ %.2f</string>
+</resources>
